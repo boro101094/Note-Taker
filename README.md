@@ -24,6 +24,7 @@ Email: boro101094@gmail.com
 ## Live Link
 This app is deployed on Heroku, link:
 
+https://notetaker-bc.herokuapp.com/notes 
 
 
 ## Screenshots
